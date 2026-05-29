@@ -25,7 +25,7 @@ Some of my blog posts:
 - See more on [my blog](https://aaron-russell.co.uk/blog/)
 
 ## Apps
-[PitCrew](https://pitcrew.team)
+[PitCrew](https://pitcrew.team) - Pit Crew￼ is an indie fantasy motorsport web app focused on race-by-race podium predictions rather than traditional fantasy team management. Players create leagues, invite friends, predict race results before the deadline, and compete on season-long leaderboards.  
 <!---
 aaron-russell/aaron-russell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
